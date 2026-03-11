@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pt
+*.pth
+*.safetensors
+.pre-commit-config.yaml
+.DS_Store
